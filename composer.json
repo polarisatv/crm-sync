@@ -1,0 +1,17 @@
+{
+  "name": "polarisatv/crm-sync",
+  "description": "Synchronize CRM with WordPress",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.0",
+    "yahnis-elsts/plugin-update-checker": "^5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "CrmSync\\": "src/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}
