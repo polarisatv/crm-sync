@@ -2,7 +2,7 @@
 /**
  * Plugin Name: CRM Sync
  * Description: Synchronize WordPress data with your CRM via API.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Polaris ATV
  */
 
